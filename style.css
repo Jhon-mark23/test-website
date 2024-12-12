@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+ body {
+	  padding: 200px;
+	  background-color: #a3792d ;
+	  width: 1200px ;
+	  height: 800px;
+	  }
+	 
+	 
+	 .box {
+	 background-color: #f5dc9f;
+	 border: solid black 1px;
+	 justify-item: center;
+	 justify-content: center;
+	 width: auto;
+	 height: auto;
+	 text-align: center;
+	 padding: 55px;  
+	 }
+	 
+	 h1 { color: green; }
+	 
+	 .container {
+	 
+	 background-color: #f5dc9f;
+	 border: solid black 1px;
+	 justify-item: center;
+	 justify-content: center;
+	 width: auto;
+	 height: auto;
+	 text-align: center;
+	 padding: 55px; 
+	
+	 }
+	  
+	 video {  
+	 border: solid black 1px;
+	max-width: 700px;
+	max-height: 800px;
+	 justify-item: center;
+	 justify-content: center;
+	
+     }
